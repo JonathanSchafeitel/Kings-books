@@ -280,7 +280,7 @@ section{
       font-size: 1.7rem;
   }
   
-}
+
 /* Fin du bloc titre*/
 /* Debut du bloc formulaire devise */
 .form-group{
@@ -288,4 +288,8 @@ section{
 }
 
 /* Fin du bloc formulaire devise */
-
+/* Contact form*/
+.bgimg {
+  background-image: url(https://www.roffeypark.ac.uk/wp-content/uploads/2018/06/the-7-best-books-to-improve-influencing-skills-2-scaled.jpg);
+  background-size: cover; 
+} 
